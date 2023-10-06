@@ -1,5 +1,7 @@
 Welcome to tetra3!
 ==================
+!!加上我的筆記的version!!
+
 
 *tetra3 is a fast lost-in-space plate solver for star trackers written in Python.*
 
